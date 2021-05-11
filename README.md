@@ -7,4 +7,4 @@ The final result, when completed will look similar to the image of the racecar i
 ![Image of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/1.jpeg)
 
 ## Modified chassis build (Progres so far...) ##
-![Image of my AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/76.jpeg)
+![Image of my AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/77.jpeg)
