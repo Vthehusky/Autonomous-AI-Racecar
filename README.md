@@ -17,7 +17,7 @@ You can check out more build images and chassis subsystem test videos in the Ima
 The implementation of the basic drive features of steering control and mobility based on perception have been taken care of, via the scipts in jetracer and notebooks directories.
 However, the firmware is not based on a middleware like ROS.
 
-Hence, I am currently working to encapsulate the entire functionality in ROS. The original Tamiya based build also did not use any localization techniques. This will be a new update to my custom build. I will most likely use dead reckoning combined with landmark detection and tracking to implement localization on offline maps.
+Hence, I am currently working to encapsulate the entire functionality in ROS. The original Tamiya based build also did not use any localization techniques. This will be a new update to my custom build. I will most likely use dead reckoning combined with landmark detection and tracking to implement localization on offline maps. I do not have a LiDAR sensor at the moment, but I will implement Adaptive Monte Carlo Localization (AMCL), as soon as I buy one since I have already implemented a localization mechanism based off AMCL in ROS (https://bitbucket.org/vinaypra/vinaypra_navfivedays/src/master/).
 
 ### Check out my work in ROS at: https://bitbucket.org/vinaypra/ ###
 
