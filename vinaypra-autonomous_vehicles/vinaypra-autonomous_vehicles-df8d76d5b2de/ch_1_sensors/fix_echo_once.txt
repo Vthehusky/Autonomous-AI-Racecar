@@ -1,0 +1,16 @@
+user ~ $ rostopic echo -n1 /fix
+header:                                                                                                                         
+  seq: 32213                                                                                                                    
+  stamp:                                                                                                                        
+    secs: 3221                                                                                                                  
+    nsecs: 400000000                                                                                                            
+  frame_id: /world                                                                                                              
+status:                                                                                                                         
+  status: 0                                                                                                                     
+  service: 0                                                                                                                    
+latitude: 49.9001090235                                                                                                         
+longitude: 8.89999753587                                                                                                        
+altitude: -0.731444120518                                                                                                       
+position_covariance: [25.01, 0.0, 0.0, 0.0, 25.01, 0.0, 0.0, 0.0, 25.01]                                                        
+position_covariance_type: 2                                                                                                     
+---                    

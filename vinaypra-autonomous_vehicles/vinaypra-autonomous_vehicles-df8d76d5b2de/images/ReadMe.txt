@@ -1,0 +1,1 @@
+This will contain images of the Gazebo simulations and other miscellaneous images.

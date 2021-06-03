@@ -1,0 +1,35 @@
+ssh-keygen -t rsa -b 4096 -C "vinaypra@mtu.edu"
+
+mkdir .ssh
+
+cp ~/catkin_ws/src/id_rsa ~/.ssh
+
+cp ~/catkin_ws/src/id_rsa.pub ~/.ssh
+
+cd .ssh
+
+chmod 644 id_rsa.pub
+
+chmod 600 id_rsa
+
+cd ..
+
+git config --global user.name "Vinay Prakash"
+
+git config --global user.email "vinaypra@mtu.edu"
+
+git config --global core.editor vim
+
+cd catkin_ws/src/autonomous_vehicles
+
+git pull origin master
+
+git init
+
+git add . 
+
+git status
+
+git commit -m "Comment"
+
+git push origin master

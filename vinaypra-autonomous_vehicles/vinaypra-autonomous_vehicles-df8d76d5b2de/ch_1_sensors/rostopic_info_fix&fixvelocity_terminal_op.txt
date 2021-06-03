@@ -1,0 +1,21 @@
+user:~/catkin_ws/src/autonomous_vehicles$ rostopic info /fix
+Type: sensor_msgs/NavSatFix
+
+Publishers:
+ * /gazebo (http://6_simulation:39239/)
+
+Subscribers:
+ * /can_sim/cansim_node (http://6_simulation:38021/)
+
+
+user:~/catkin_ws/src/autonomous_vehicles$ rostopic info /fix_velocity
+Type: geometry_msgs/Vector3Stamped
+
+Publishers:
+ * /gazebo (http://6_simulation:39239/)
+
+Subscribers:
+ * /can_sim/cansim_node (http://6_simulation:38021/)
+
+
+user:~/catkin_ws/src/autonomous_vehicles$

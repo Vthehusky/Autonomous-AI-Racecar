@@ -1,0 +1,24 @@
+rostopic info /catvehicle/front_laser_points
+Type: sensor_msgs/LaserScan
+
+Publishers:
+ * /gazebo (http://4_simulation:45931/)
+
+Subscribers:
+ * /distanceEstimator (http://4_simulation:42333/)
+
+
+user:~$ rosmsg show sensor_msgs/LaserScan
+std_msgs/Header header
+  uint32 seq
+  time stamp
+  string frame_id
+float32 angle_min
+float32 angle_max
+float32 angle_increment
+float32 time_increment
+float32 scan_time
+float32 range_min
+float32 range_max
+float32[] ranges
+float32[] intensities

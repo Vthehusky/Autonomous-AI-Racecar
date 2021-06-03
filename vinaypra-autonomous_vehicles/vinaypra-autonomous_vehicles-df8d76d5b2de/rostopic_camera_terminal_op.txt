@@ -1,0 +1,15 @@
+rostopic list | grep camera
+/catvehicle/camera_front/camera_front_info
+/catvehicle/camera_front/image_raw_front
+/catvehicle/camera_front/image_raw_front/compressed
+/catvehicle/camera_front/image_raw_front/compressed/parameter_descriptions
+/catvehicle/camera_front/image_raw_front/compressed/parameter_updates
+/catvehicle/camera_front/image_raw_front/compressedDepth
+/catvehicle/camera_front/image_raw_front/compressedDepth/parameter_descriptions
+/catvehicle/camera_front/image_raw_front/compressedDepth/parameter_updates
+/catvehicle/camera_front/image_raw_front/theora
+/catvehicle/camera_front/image_raw_front/theora/parameter_descriptions
+/catvehicle/camera_front/image_raw_front/theora/parameter_updates
+/catvehicle/camera_front/parameter_descriptions
+/catvehicle/camera_front/parameter_updates
+user:~$

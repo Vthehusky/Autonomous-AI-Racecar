@@ -1,0 +1,7 @@
+user ~ $ rostopic info /catvehicle/camera_front/image_raw_front
+Type: sensor_msgs/Image                                                                                                         
+                                                                                                                                
+Publishers:                                                                                                                     
+ * /gazebo (http://ip-172-31-14-242:39366/)                                                                                     
+                                                                                                                                
+Subscribers: None 

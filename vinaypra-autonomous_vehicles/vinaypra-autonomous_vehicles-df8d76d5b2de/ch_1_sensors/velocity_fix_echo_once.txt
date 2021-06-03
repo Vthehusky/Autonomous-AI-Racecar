@@ -1,0 +1,12 @@
+user ~ $ rostopic echo -n1 /fix_velocity                                                                                        
+header:                                                                                                                         
+  seq: 33006                                                                                                                    
+  stamp:                                                                                                                        
+    secs: 3300                                                                                                                  
+    nsecs: 700000000                                                                                                            
+  frame_id: /world                                                                                                              
+vector:                                                                                                                         
+  x: -0.050835156007                                                                                                            
+  y: -0.0265822677885                                                                                                           
+  z: -0.0950885075646                                                                                                           
+--- 
