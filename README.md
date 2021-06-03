@@ -21,7 +21,7 @@ Hence, I am currently working to encapsulate the entire functionality in ROS. Th
 
 ## Update (06/03/2021) : Firmware development - Added CAN to ROS based framework ##
 
-The actual codebase has been imported from another personal repository on BitBuckedt at -
+The actual codebase has been imported from another personal repository on BitBucked. The implementation is maintained at -
 https://bitbucket.org/vinaypra/autonomous_vehicles/src/master/
 
 ### Check out my work in ROS at: https://bitbucket.org/vinaypra/ ###
