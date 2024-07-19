@@ -1,5 +1,12 @@
 # Autonomous-AI-Racecar
 
+## Update (07/19/2024): ##
+Repository restructuring: It has been a little while since I last worked on this project. There are a lot of changes planned to be rolled out over the next 2 weeks.
+The main changes coming up are as follows:
+- Setting up a proper catkin_ws for the ROS and ROS 2 builds.
+- Set up the necessary submodules in the src director to cleanly partition various parts of the SW stack (navigation, planners, control and ROS-CAN interface layer, among other parts).
+- Implement Git workflows for managing releases and ensuring smooth continuous integration and deployment.
+- Set up GitHub Actions for automated testing, building, and deployment of the software.
 ## Chassis and car ##
 
 The final result, when completed will look similar to the image of the racecar included below. I have changed the basic build and replaced some of the physical components and accessories based on my custom build.
@@ -26,8 +33,13 @@ https://bitbucket.org/vinaypra/autonomous_vehicles/src/master/
 ### Check out my work in ROS at: https://bitbucket.org/vinaypra/ ###
 
 ### Planned Enhancements ###
-Migration to Jetson Orin: Planning to enhance the JetRacer platform for improved AI processing and autonomous racing capabilities.
-Implementation of CAN Bus Motor Control: Developing a custom SocketCAN-ROS interface for motor control via CAN bus using a PIC18F microcontroller.
-Integration of Advanced Stereo Vision: Incorporating an OAK D-Lite stereo vision camera alongside the Raspberry Pi Camera v2 for advanced perception.
-Development of Motion Planning Algorithms: Creating motion planning algorithms (Hybrid A* and TEB) utilizing dual-camera inputs for autonomous navigation.
-Enhancing Obstacle Detection: Implementing real-time obstacle and object detection using DepthAI's Object Tracker with KCF, Kalman filter, and Hungarian algorithm.
+- Migration to Jetson Orin: Planning to enhance the JetRacer platform for improved AI processing and autonomous racing capabilities.
+
+- Implementation of CAN Bus Motor Control: Developing a custom SocketCAN-ROS interface for motor control via CAN bus using a PIC18F microcontroller.
+
+- Integration of Advanced Stereo Vision: Incorporating an OAK D-Lite stereo vision camera alongside the Raspberry Pi Camera v2 for advanced perception.
+
+- Development of Motion Planning Algorithms: Creating motion planning algorithms (Hybrid A* and TEB) utilizing dual-camera inputs for autonomous navigation.
+
+- Enhancing Obstacle Detection: Implementing real-time obstacle and object detection using DepthAI's Object Tracker with KCF, Kalman filter, and Hungarian algorithm.
+
