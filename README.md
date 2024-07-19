@@ -25,10 +25,9 @@ https://bitbucket.org/vinaypra/autonomous_vehicles/src/master/
 
 ### Check out my work in ROS at: https://bitbucket.org/vinaypra/ ###
 
-I will try to improve localization further with some of the indoor localization techniques I have been developing as a part of another project. Under Dr. Lan Zhang, I have been working on the project Intelligent Wireless Sensing - Novel applications of machine learning algorithms for IEEE 802.11 for wireless sensing.
-My role in the team:
-♦ Setting up the required hardware test benches using Jetson Nano and laptops running custom builds of CSI tools acting as wireless nodes, to collect Channel State Information (CSI).
-♦ Pre-processing and filtering the CSI data for multi-domain (time, frequency, wavelet and deep features) for feature extraction.
-♦ Applying machine learning and model-based algorithms for state estimation in sensing applications.
-
-### Check out the details at: https://events.mtu.edu/event/augmenting_radio_environments_for_better_wireless_ecosystems ###
+### Planned Enhancements ###
+Migration to Jetson Orin: Planning to enhance the JetRacer platform for improved AI processing and autonomous racing capabilities.
+Implementation of CAN Bus Motor Control: Developing a custom SocketCAN-ROS interface for motor control via CAN bus using a PIC18F microcontroller.
+Integration of Advanced Stereo Vision: Incorporating an OAK D-Lite stereo vision camera alongside the Raspberry Pi Camera v2 for advanced perception.
+Development of Motion Planning Algorithms: Creating motion planning algorithms (Hybrid A* and TEB) utilizing dual-camera inputs for autonomous navigation.
+Enhancing Obstacle Detection: Implementing real-time obstacle and object detection using DepthAI's Object Tracker with KCF, Kalman filter, and Hungarian algorithm.
