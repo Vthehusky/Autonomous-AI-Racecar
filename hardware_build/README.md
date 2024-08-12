@@ -81,16 +81,16 @@ Fortunately, I had another kit lying around as a backup and the new kit is final
 ![Image of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/26_new.jpeg)
 
 ### First RC electronics test and checkout - kill switch, motor, ESC, receiver, steering servo and battery hookup ###
-![GIF of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/27_new.gif)
+[![Watch the video](https://img.youtube.com/vi/3tb6EyFIGjM/0.jpg)](https://youtube.com/shorts/3tb6EyFIGjM)
 
 ### All electronics assembled on the chassis ###
 ### Note: As can be seen, there was a steering offset. I tried tweaking the steering trim on the Futaba remote, but the offset was too much to be corrected by the trim settings, so I took apart the steering servo and took apart the steering horn assembly. ###
 ###       After this I wired everything back up again and found the 90-degree neutral position and reassembled the horn carefully again. After this there was minimal steering bias in neutral. ###
-![GIF of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/28_new.gif)
+[![Watch the video](https://img.youtube.com/vi/RfGCO583wEc/0.jpg)](https://youtube.com/shorts/RfGCO583wEc)
 
 ### First test drive ###
 ### Note: The car seems to drive without any issues as on the previous set. However it was still veering a little to the side because of the steering servo bias in netral straight heading. ###
 
-![GIF of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/29_new.gif)
+[![Watch the video](https://img.youtube.com/vi/91J_JPVWmwc/0.jpg)](https://youtube.com/shorts/91J_JPVWmwc)
 
 ### Note: To compensate for the veering, I adjusted and tested the steering trims for the left and right steering which led to driving in almost a straight line. The battery dies before I could record a run, so I will update the next video when I do the next test runs. ###
