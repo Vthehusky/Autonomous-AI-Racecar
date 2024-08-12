@@ -1,23 +1,15 @@
 # Autonomous-AI-Racecar
 
-## Update (07/19/2024): ##
+## Update: ##
 Repository restructuring: It has been a little while since I last worked on this project. There are a lot of changes planned to be rolled out over the next 2 weeks.
 The main changes coming up are as follows:
 - Setting up a proper catkin_ws for the ROS and ROS 2 builds.
 - Set up the necessary submodules in the src director to cleanly partition various parts of the SW stack (navigation, planners, control and ROS-CAN interface layer, among other parts).
 - Implement Git workflows for managing releases and ensuring smooth continuous integration and deployment.
 - Set up GitHub Actions for automated testing, building, and deployment of the software.
-## Chassis and car ##
 
-The final result, when completed will look similar to the image of the racecar included below. I have changed the basic build and replaced some of the physical components and accessories based on my custom build.
-
-![Image of AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/1_old.jpeg)
-
-## Modified chassis build (Progres so far...) ##
-
-You can check out more build images and chassis subsystem test videos in the Images folder
-
-![Image of my AI Racecar](https://github.com/Vthehusky/Autonomous-AI-Racecar/blob/main/Images/77_old.jpeg)
+## Hardware build ##
+This has now been moved to the hardware_build directory README file. Please refer to that directory for the hardware build related progress.
 
 ## Firmware development ##
 
