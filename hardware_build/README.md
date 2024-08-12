@@ -93,4 +93,4 @@ Fortunately, I had another kit lying around as a backup and the new kit is final
 
 [![Watch the video](https://img.youtube.com/vi/91J_JPVWmwc/0.jpg)](https://youtube.com/shorts/91J_JPVWmwc)
 
-### Note: To compensate for the veering, I adjusted and tested the steering trims for the left and right steering which led to driving in almost a straight line. The battery dies before I could record a run, so I will update the next video when I do the next test runs. ###
+### Note: To compensate for the veering, I adjusted and tested the steering trims for the left and right steering which led to driving in almost a straight line. The battery died before I could record a run with the calibrated steering, so I will update the next video when I do the next set of test runs. ###
