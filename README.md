@@ -1,7 +1,7 @@
 # Autonomous-AI-Racecar
 
 ## Update: ##
-Repository restructuring: It has been a little while since I last worked on this project. There are a lot of changes planned to be rolled out over the next 2 weeks.
+Repository restructuring: It has been a little while since I last worked on this project. There are a lot of changes planned to be rolled out over the next few weeks.
 The main changes coming up are as follows:
 - Setting up a proper catkin_ws for the ROS and ROS 2 builds.
 - Set up the necessary submodules in the src director to cleanly partition various parts of the SW stack (navigation, planners, control and ROS-CAN interface layer, among other parts).
