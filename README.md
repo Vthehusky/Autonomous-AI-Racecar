@@ -35,3 +35,12 @@ https://bitbucket.org/vinaypra/autonomous_vehicles/src/master/
 
 - Enhancing Obstacle Detection: Implementing real-time obstacle and object detection using DepthAI's Object Tracker with KCF, Kalman filter, and Hungarian algorithm.
 
+### Notes: ###
+Cloning on another device (e.g., NVIDIA Orin):
+
+- When cloning the repository on another device, navigate to the catkin_ws directory and install any necessary dependencies:
+    cd Autonomous-AI-Racecar/catkin_ws
+    rosdep install --from-paths src --ignore-src -r -y
+
+- Then build the workspace:
+    catkin_make
